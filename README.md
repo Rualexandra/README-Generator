@@ -13,7 +13,10 @@
   - [Questions](#questions)
   
   ## Installation
-  *To install and set up the README Generator on your local machine, follow these steps:Clone the repository from GitHub to your local machine. Open your terminal and run: git clone https://github.com/Rualexandra/readme-generator.gitChange your current working directory to the project's Develop folder: cd readme-generator/DevelopInstall the required npm packages by running: npm install*
+  *To install and set up the README Generator on your local machine, follow these steps:
+  Clone the repository from GitHub to your local machine. 
+  Open your terminal and run: git clone https://github.com/Rualexandra/readme-generator.gitChange your current working directory to the project's Develop folder: cd readme-generator/Develop
+  Install the required npm packages by running: npm install*
   
   ## Usage
   1. Run the application by executing: node index.js
